@@ -1,8 +1,8 @@
-#Classement-jeux
-##Présentation de l’équipe
-Afonso Beatriz Rodrigo
-
-##Description du projet
+#Liste de jeux  
+##Présentation de l’équipe  
+* Afonso Beatriz Rodrigo  
+  
+##Description du projet  
 Site référençant les vainqueurs ayant gagner les tournois du grand chelem sur les 3 dernières années.
 Cette application permettra de connaître rapidement qui sont les vainqueurs des tournois majeurs et en quelles années. Les utilisateurs pourront aussi cliquer sur des liens qui leur permettront d’avoir plus d’informations sur les joueurs ou tournois et sur le site même il y aura une petite description avec éventuellement une photo du joueur ou un logo du tournois.
 De plus nous laisseront une possibilité de rajouter d’autres sport, pour le moment il n’y aura qu’un seul sport disponible.
